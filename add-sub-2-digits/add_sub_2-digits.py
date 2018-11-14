@@ -2,7 +2,7 @@ import random
 k = 1
 print("ADD AND SUBTRACT TWO DIGIT NUMBERS:")
 print("/n")
-while (k <= 30):
+while (k <= 55):
     i = random.randint(10,99)
     j = random.randint(1,99)
     operator = ['+', '-']
