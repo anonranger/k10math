@@ -1,4 +1,2 @@
 # mathninja
-Python Scripts for Kids - Improve Math skills
-
-1. Basic Operations
+Generate Math worksheets for kids from Python.
