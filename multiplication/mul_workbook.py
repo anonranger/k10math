@@ -1,23 +1,12 @@
 import random
-mlist = []
 shufflelist = []
-mtable = ''
-repeat_12 = 10
-j = 12
-
 
 def mult_fn(i):
-
-    #print(i)
     j = 12
-    
+    mlist=[]
     while j >= 1:
-        
-        #print(i)
-        #print(j)
-       
         #Worksheet hide result
-        mtable = str(i)+" "+"*"+" "+str(j)+" "+"="+" "+" "
+        mtable = str(i)+" "+"*"+" "+str(j)+" "+"="+" "
         mlist.append(mtable)
         j = j - 1
     print('\n')
@@ -35,19 +24,7 @@ def mult_fn(i):
     print('\n')
     print('\n \n \n'.join(map(str, shufflelist)))
 
-
-#repeat_200 = 1
-#while repeat_200 <= 2:
-while repeat_12 <= 12:
-    mult_fn(repeat_12)
-    repeat_12 = repeat_12 + 1
-    #print(repeat_12)
-    #mult_fn(repeat_12)
-    #repeat_12 = repeat_12 + 1
-    #repeat_12 = 2
-    #repeat_200 = repeat_200 + 1
-
-
-
-
-
+repeats = int(input())
+for j in range(repeats):
+    for i in range(2,13):
+        mult_fn(i)
