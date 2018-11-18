@@ -23,6 +23,6 @@ Generate Math worksheets for kids from Python
 
 Singapore Math - Word problems
 
-Math Penguin - Word problems
+Math Kangaroo - Word problems
 
 Algebra - Word problems
