@@ -1,0 +1,501 @@
+Number of questions to generate :
+If 40% price of cake is $8
+what is the price of that cake at 20%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 10% price of water bottle is $4
+what is the price of that water bottle at 40%?
+What is the full price of the water bottle
+Is the water bottle selling at a discount or premium?
+
+If 60% price of TV is $40
+what is the price of that TV at 70%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 80% price of cupcake is $60
+what is the price of that cupcake at double price 200%?
+What is the full price of the cupcake
+Is the cupcake selling at a discount or premium?
+
+If 60% price of water bottle is $35
+what is the price of that water bottle at 80%?
+What is the full price of the water bottle
+Is the water bottle selling at a discount or premium?
+
+If full price 100% price of shirt is $40
+what is the price of that shirt at 20%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If 70% price of chair is $15
+what is the price of that chair at full price 100%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If quarter price 25% price of book is $6
+what is the price of that book at 60%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If 30% price of water bottle is $54
+what is the price of that water bottle at 90%?
+What is the full price of the water bottle
+Is the water bottle selling at a discount or premium?
+
+If 60% price of cupcake is $10
+what is the price of that cupcake at full price 100%?
+What is the full price of the cupcake
+Is the cupcake selling at a discount or premium?
+
+If double price 200% price of chair is $63
+what is the price of that chair at quarter price 25%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If 30% price of shirt is $6
+what is the price of that shirt at 20%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If 10% price of TV is $81
+what is the price of that TV at 70%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If half price 50% price of water bottle is $2
+what is the price of that water bottle at 90%?
+What is the full price of the water bottle
+Is the water bottle selling at a discount or premium?
+
+If quarter price 25% price of book is $90
+what is the price of that book at 10%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If double price 200% price of skirt is $10
+what is the price of that skirt at half price 50%?
+What is the full price of the skirt
+Is the skirt selling at a discount or premium?
+
+If 70% price of book is $90
+what is the price of that book at 20%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If 70% price of TV is $18
+what is the price of that TV at 40%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 80% price of cake is $12
+what is the price of that cake at 30%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 10% price of cake is $48
+what is the price of that cake at 60%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 60% price of chair is $36
+what is the price of that chair at quarter price 25%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If double price 200% price of book is $60
+what is the price of that book at 70%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If double price 200% price of cake is $40
+what is the price of that cake at 80%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If half price 50% price of book is $10
+what is the price of that book at 20%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If 30% price of TV is $70
+what is the price of that TV at quarter price 25%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 10% price of shirt is $24
+what is the price of that shirt at 80%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If double price 200% price of TV is $12
+what is the price of that TV at 20%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If half price 50% price of TV is $30
+what is the price of that TV at quarter price 25%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 10% price of TV is $12
+what is the price of that TV at 30%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 30% price of chair is $40
+what is the price of that chair at quarter price 25%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If quarter price 25% price of cupcake is $24
+what is the price of that cupcake at 70%?
+What is the full price of the cupcake
+Is the cupcake selling at a discount or premium?
+
+If quarter price 25% price of water bottle is $24
+what is the price of that water bottle at half price 50%?
+What is the full price of the water bottle
+Is the water bottle selling at a discount or premium?
+
+If 20% price of shirt is $28
+what is the price of that shirt at double price 200%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If 10% price of book is $32
+what is the price of that book at double price 200%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If 10% price of cupcake is $20
+what is the price of that cupcake at 40%?
+What is the full price of the cupcake
+Is the cupcake selling at a discount or premium?
+
+If double price 200% price of book is $25
+what is the price of that book at 80%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If full price 100% price of TV is $56
+what is the price of that TV at 90%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If full price 100% price of TV is $42
+what is the price of that TV at 80%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 40% price of shirt is $45
+what is the price of that shirt at full price 100%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If 60% price of TV is $25
+what is the price of that TV at 70%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If quarter price 25% price of handbag is $20
+what is the price of that handbag at 90%?
+What is the full price of the handbag
+Is the handbag selling at a discount or premium?
+
+If quarter price 25% price of pant is $18
+what is the price of that pant at 90%?
+What is the full price of the pant
+Is the pant selling at a discount or premium?
+
+If 10% price of shirt is $3
+what is the price of that shirt at 40%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If double price 200% price of chair is $21
+what is the price of that chair at 90%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If 60% price of chair is $40
+what is the price of that chair at half price 50%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If 80% price of book is $20
+what is the price of that book at double price 200%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If 20% price of TV is $12
+what is the price of that TV at 70%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 90% price of cake is $50
+what is the price of that cake at double price 200%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 40% price of handbag is $60
+what is the price of that handbag at 20%?
+What is the full price of the handbag
+Is the handbag selling at a discount or premium?
+
+If full price 100% price of cupcake is $24
+what is the price of that cupcake at 80%?
+What is the full price of the cupcake
+Is the cupcake selling at a discount or premium?
+
+If 60% price of handbag is $36
+what is the price of that handbag at full price 100%?
+What is the full price of the handbag
+Is the handbag selling at a discount or premium?
+
+If 80% price of pant is $16
+what is the price of that pant at 10%?
+What is the full price of the pant
+Is the pant selling at a discount or premium?
+
+If 30% price of chair is $18
+what is the price of that chair at 70%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If 40% price of cupcake is $72
+what is the price of that cupcake at half price 50%?
+What is the full price of the cupcake
+Is the cupcake selling at a discount or premium?
+
+If 80% price of cake is $30
+what is the price of that cake at 60%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If double price 200% price of cake is $7
+what is the price of that cake at 40%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 80% price of cake is $14
+what is the price of that cake at full price 100%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If quarter price 25% price of cake is $30
+what is the price of that cake at 20%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If full price 100% price of handbag is $24
+what is the price of that handbag at 40%?
+What is the full price of the handbag
+Is the handbag selling at a discount or premium?
+
+If quarter price 25% price of cake is $32
+what is the price of that cake at half price 50%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 20% price of handbag is $50
+what is the price of that handbag at 40%?
+What is the full price of the handbag
+Is the handbag selling at a discount or premium?
+
+If 60% price of cake is $50
+what is the price of that cake at double price 200%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 40% price of TV is $30
+what is the price of that TV at quarter price 25%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 40% price of cake is $20
+what is the price of that cake at quarter price 25%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If double price 200% price of pant is $7
+what is the price of that pant at 10%?
+What is the full price of the pant
+Is the pant selling at a discount or premium?
+
+If half price 50% price of shirt is $5
+what is the price of that shirt at 60%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If 90% price of water bottle is $10
+what is the price of that water bottle at 70%?
+What is the full price of the water bottle
+Is the water bottle selling at a discount or premium?
+
+If 60% price of handbag is $9
+what is the price of that handbag at full price 100%?
+What is the full price of the handbag
+Is the handbag selling at a discount or premium?
+
+If 20% price of shirt is $8
+what is the price of that shirt at 10%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If 80% price of handbag is $12
+what is the price of that handbag at quarter price 25%?
+What is the full price of the handbag
+Is the handbag selling at a discount or premium?
+
+If quarter price 25% price of pant is $60
+what is the price of that pant at 70%?
+What is the full price of the pant
+Is the pant selling at a discount or premium?
+
+If 80% price of book is $35
+what is the price of that book at 30%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If 80% price of chair is $9
+what is the price of that chair at 60%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If 30% price of cake is $18
+what is the price of that cake at 70%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 70% price of shirt is $12
+what is the price of that shirt at full price 100%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If full price 100% price of skirt is $60
+what is the price of that skirt at half price 50%?
+What is the full price of the skirt
+Is the skirt selling at a discount or premium?
+
+If 60% price of skirt is $3
+what is the price of that skirt at half price 50%?
+What is the full price of the skirt
+Is the skirt selling at a discount or premium?
+
+If double price 200% price of skirt is $90
+what is the price of that skirt at 70%?
+What is the full price of the skirt
+Is the skirt selling at a discount or premium?
+
+If quarter price 25% price of chair is $16
+what is the price of that chair at 80%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If 80% price of TV is $5
+what is the price of that TV at 40%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 60% price of TV is $50
+what is the price of that TV at 30%?
+What is the full price of the TV
+Is the TV selling at a discount or premium?
+
+If 40% price of skirt is $20
+what is the price of that skirt at 10%?
+What is the full price of the skirt
+Is the skirt selling at a discount or premium?
+
+If quarter price 25% price of skirt is $90
+what is the price of that skirt at 40%?
+What is the full price of the skirt
+Is the skirt selling at a discount or premium?
+
+If 10% price of water bottle is $5
+what is the price of that water bottle at 60%?
+What is the full price of the water bottle
+Is the water bottle selling at a discount or premium?
+
+If 20% price of handbag is $60
+what is the price of that handbag at 70%?
+What is the full price of the handbag
+Is the handbag selling at a discount or premium?
+
+If 60% price of pant is $48
+what is the price of that pant at full price 100%?
+What is the full price of the pant
+Is the pant selling at a discount or premium?
+
+If 70% price of cake is $50
+what is the price of that cake at quarter price 25%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 40% price of pant is $12
+what is the price of that pant at full price 100%?
+What is the full price of the pant
+Is the pant selling at a discount or premium?
+
+If 40% price of book is $80
+what is the price of that book at double price 200%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If double price 200% price of chair is $35
+what is the price of that chair at 20%?
+What is the full price of the chair
+Is the chair selling at a discount or premium?
+
+If 60% price of shirt is $6
+what is the price of that shirt at 10%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If 80% price of cake is $30
+what is the price of that cake at 70%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 90% price of book is $80
+what is the price of that book at quarter price 25%?
+What is the full price of the book
+Is the book selling at a discount or premium?
+
+If quarter price 25% price of skirt is $24
+what is the price of that skirt at full price 100%?
+What is the full price of the skirt
+Is the skirt selling at a discount or premium?
+
+If 30% price of shirt is $12
+what is the price of that shirt at full price 100%?
+What is the full price of the shirt
+Is the shirt selling at a discount or premium?
+
+If 90% price of pant is $9
+what is the price of that pant at 20%?
+What is the full price of the pant
+Is the pant selling at a discount or premium?
+
+If 10% price of cake is $32
+what is the price of that cake at 90%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 80% price of water bottle is $24
+what is the price of that water bottle at 30%?
+What is the full price of the water bottle
+Is the water bottle selling at a discount or premium?
+
+If double price 200% price of cake is $81
+what is the price of that cake at 40%?
+What is the full price of the cake
+Is the cake selling at a discount or premium?
+
+If 20% price of skirt is $10
+what is the price of that skirt at double price 200%?
+What is the full price of the skirt
+Is the skirt selling at a discount or premium?
+

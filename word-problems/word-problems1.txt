@@ -1,0 +1,301 @@
+Number of questions to generate :
+If it costs $24 for 6 chairs
+How much does 2 chairs cost?
+
+If it costs $27 for 9 books
+How much does 2 books cost?
+
+If it costs $60 for 6 TVs
+How much does 5 TVs cost?
+
+If 5 cakes cost $40
+How much does 2 cakes cost?
+
+If it costs $7 for 1 TVs
+How much does 9 TVs cost?
+
+If it costs $30 for 6 water bottles
+How much does 7 water bottles cost?
+
+If 4 cakes cost $36
+How much does 1 cakes cost?
+
+If it costs $80 for 10 TVs
+How much does 1 TVs cost?
+
+If it costs $56 for 8 cupcakes
+How much does 7 cupcakes cost?
+
+If it costs $21 for 3 water bottles
+How much does 1 water bottles cost?
+
+If 4 books cost $28
+How much does 5 books cost?
+
+If it costs $40 for 5 cupcakes
+How much does 4 cupcakes cost?
+
+If it costs $8 for 2 cupcakes
+How much does 3 cupcakes cost?
+
+If it costs $54 for 9 cupcakes
+How much does 3 cupcakes cost?
+
+If 4 books cost $24
+How much does 2 books cost?
+
+If it costs $24 for 8 books
+How much does 10 books cost?
+
+If it costs $18 for 9 cakes
+How much does 8 cakes cost?
+
+If it costs $81 for 9 shirts
+How much does 10 shirts cost?
+
+If 10 books cost $60
+How much does 5 books cost?
+
+If it costs $40 for 10 cakes
+How much does 1 cakes cost?
+
+If it costs $40 for 5 shirts
+How much does 10 shirts cost?
+
+If it costs $18 for 3 cakes
+How much does 9 cakes cost?
+
+If 4 pants cost $12
+How much does 7 pants cost?
+
+If 9 shirts cost $81
+How much does 10 shirts cost?
+
+If it costs $24 for 8 cupcakes
+How much does 7 cupcakes cost?
+
+If it costs $60 for 6 handbags
+How much does 5 handbags cost?
+
+If it costs $9 for 1 books
+How much does 7 books cost?
+
+If 1 TVs cost $9
+How much does 5 TVs cost?
+
+If 3 skirts cost $27
+How much does 5 skirts cost?
+
+If it costs $35 for 5 cupcakes
+How much does 6 cupcakes cost?
+
+If it costs $18 for 6 cupcakes
+How much does 3 cupcakes cost?
+
+If 5 shirts cost $50
+How much does 6 shirts cost?
+
+If it costs $25 for 5 pants
+How much does 8 pants cost?
+
+If it costs $24 for 8 pants
+How much does 9 pants cost?
+
+If 2 books cost $20
+How much does 10 books cost?
+
+If it costs $80 for 8 TVs
+How much does 3 TVs cost?
+
+If 5 handbags cost $35
+How much does 6 handbags cost?
+
+If it costs $56 for 8 shirts
+How much does 4 shirts cost?
+
+If it costs $30 for 3 cupcakes
+How much does 5 cupcakes cost?
+
+If 1 shirts cost $6
+How much does 4 shirts cost?
+
+If it costs $54 for 9 chairs
+How much does 10 chairs cost?
+
+If 7 cupcakes cost $49
+How much does 9 cupcakes cost?
+
+If it costs $9 for 1 shirts
+How much does 4 shirts cost?
+
+If 10 water bottles cost $70
+How much does 5 water bottles cost?
+
+If it costs $24 for 6 chairs
+How much does 7 chairs cost?
+
+If it costs $7 for 1 cupcakes
+How much does 2 cupcakes cost?
+
+If it costs $12 for 2 TVs
+How much does 6 TVs cost?
+
+If 6 books cost $48
+How much does 7 books cost?
+
+If it costs $70 for 10 skirts
+How much does 7 skirts cost?
+
+If it costs $25 for 5 chairs
+How much does 2 chairs cost?
+
+If it costs $27 for 9 handbags
+How much does 8 handbags cost?
+
+If it costs $9 for 1 skirts
+How much does 9 skirts cost?
+
+If 2 chairs cost $12
+How much does 7 chairs cost?
+
+If 6 TVs cost $24
+How much does 8 TVs cost?
+
+If it costs $90 for 10 water bottles
+How much does 3 water bottles cost?
+
+If it costs $36 for 4 cakes
+How much does 7 cakes cost?
+
+If it costs $35 for 7 skirts
+How much does 1 skirts cost?
+
+If it costs $80 for 10 shirts
+How much does 7 shirts cost?
+
+If it costs $42 for 7 water bottles
+How much does 10 water bottles cost?
+
+If it costs $5 for 1 chairs
+How much does 3 chairs cost?
+
+If 1 skirts cost $7
+How much does 2 skirts cost?
+
+If it costs $35 for 7 pants
+How much does 10 pants cost?
+
+If it costs $56 for 7 water bottles
+How much does 6 water bottles cost?
+
+If it costs $20 for 2 cakes
+How much does 8 cakes cost?
+
+If 1 chairs cost $5
+How much does 4 chairs cost?
+
+If it costs $18 for 3 water bottles
+How much does 4 water bottles cost?
+
+If 5 water bottles cost $30
+How much does 3 water bottles cost?
+
+If it costs $12 for 2 pants
+How much does 3 pants cost?
+
+If 9 shirts cost $81
+How much does 1 shirts cost?
+
+If 6 shirts cost $60
+How much does 1 shirts cost?
+
+If it costs $72 for 8 handbags
+How much does 9 handbags cost?
+
+If it costs $40 for 5 shirts
+How much does 7 shirts cost?
+
+If 4 pants cost $20
+How much does 8 pants cost?
+
+If 4 books cost $32
+How much does 3 books cost?
+
+If it costs $12 for 6 pants
+How much does 5 pants cost?
+
+If 1 TVs cost $3
+How much does 10 TVs cost?
+
+If it costs $4 for 2 chairs
+How much does 5 chairs cost?
+
+If 6 handbags cost $60
+How much does 1 handbags cost?
+
+If it costs $60 for 10 handbags
+How much does 6 handbags cost?
+
+If it costs $21 for 3 cupcakes
+How much does 4 cupcakes cost?
+
+If 7 books cost $35
+How much does 5 books cost?
+
+If it costs $10 for 2 shirts
+How much does 6 shirts cost?
+
+If it costs $25 for 5 handbags
+How much does 6 handbags cost?
+
+If 6 handbags cost $30
+How much does 8 handbags cost?
+
+If it costs $40 for 8 TVs
+How much does 9 TVs cost?
+
+If it costs $24 for 8 TVs
+How much does 3 TVs cost?
+
+If 6 handbags cost $30
+How much does 3 handbags cost?
+
+If it costs $10 for 2 books
+How much does 4 books cost?
+
+If it costs $12 for 6 skirts
+How much does 7 skirts cost?
+
+If it costs $12 for 2 pants
+How much does 4 pants cost?
+
+If it costs $72 for 9 cakes
+How much does 4 cakes cost?
+
+If it costs $6 for 1 skirts
+How much does 6 skirts cost?
+
+If it costs $21 for 7 TVs
+How much does 8 TVs cost?
+
+If it costs $42 for 6 cupcakes
+How much does 7 cupcakes cost?
+
+If it costs $100 for 10 pants
+How much does 5 pants cost?
+
+If it costs $10 for 1 cakes
+How much does 10 cakes cost?
+
+If it costs $45 for 9 handbags
+How much does 5 handbags cost?
+
+If it costs $49 for 7 chairs
+How much does 8 chairs cost?
+
+If it costs $70 for 10 shirts
+How much does 7 shirts cost?
+
+If it costs $28 for 4 handbags
+How much does 3 handbags cost?
+
