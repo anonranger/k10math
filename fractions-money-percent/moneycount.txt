@@ -1,65 +1,62 @@
-money-counting normal Addition
-89 D + 10 C + 3 N + 42 P =
-2 D + 5 C + 4 N + 55 P =
-71 D + 3 C + 10 N + 3 P =
-41 D + 6 C + 10 N + 8 P =
-39 D + 3 C + 9 N + 66 P =
-2 D + 2 C + 1 N + 60 P =
-94 D + 1 C + 1 N + 99 P =
-50 D + 6 C + 10 N + 80 P =
-72 D + 3 C + 2 N + 68 P =
-56 D + 3 C + 9 N + 84 P =
-77 D + 10 C + 10 N + 90 P =
-83 D + 5 C + 4 N + 98 P =
-36 D + 6 C + 6 N + 17 P =
-10 D + 7 C + 6 N + 52 P =
-26 D + 7 C + 2 N + 33 P =
-55 D + 5 C + 9 N + 82 P =
-30 D + 6 C + 4 N + 21 P =
-46 D + 10 C + 6 N + 93 P =
-52 D + 10 C + 2 N + 26 P =
-86 D + 1 C + 2 N + 45 P =
-money-counting random Addition
+MONEY COUNTING 
 
-83 D + 2 C + 21 P =
-2 D + 4 C + 1 N + 25 P =
-68 D + 1 C + 1 P =
-3 C + 3 N + 2 P =
-27 D + 16 P =
-1 C + 23 P =
-7 D + 1 C =
-49 D + 3 C + 3 N + 46 P =
-51 D + 2 C + 1 N + 61 P =
-5 N + 56 P =
-50 D + 2 C + 9 N + 58 P =
-4 N + 2 P =
-29 D + 5 C + 6 P =
-2 D + 6 C + 1 N + 32 P =
-20 D + 7 C + 14 P =
-48 D + 6 N =
-19 D + 5 C + 2 N =
-39 D + 1 C + 73 P =
-6 C + 2 N =
-10 D + 1 C + 2 N + 40 P =
+59 Dollar + 7 Q + 76 Dime + 47 N + 34 P = __________ Cent and  $ ___________
 
-money-counting random Subtraction
-(89 D + 10 C + 3 N + 42 P) - (83 D + 2 C + 21 P) =
-(2 D + 5 C + 4 N + 55 P) - (2 D + 4 C + 1 N + 25 P) =
-(71 D + 3 C + 10 N + 3 P) - (68 D + 1 C + 1 P) =
-(41 D + 6 C + 10 N + 8 P) - (3 C + 3 N + 2 P) =
-(39 D + 3 C + 9 N + 66 P) - (27 D + 16 P) =
-(2 D + 2 C + 1 N + 60 P) - (1 C + 23 P) =
-(94 D + 1 C + 1 N + 99 P) - (7 D + 1 C) =
-(50 D + 6 C + 10 N + 80 P) - (49 D + 3 C + 3 N + 46 P) =
-(72 D + 3 C + 2 N + 68 P) - (51 D + 2 C + 1 N + 61 P) =
-(56 D + 3 C + 9 N + 84 P) - (5 N + 56 P) =
-(77 D + 10 C + 10 N + 90 P) - (50 D + 2 C + 9 N + 58 P) =
-(83 D + 5 C + 4 N + 98 P) - (4 N + 2 P) =
-(36 D + 6 C + 6 N + 17 P) - (29 D + 5 C + 6 P) =
-(10 D + 7 C + 6 N + 52 P) - (2 D + 6 C + 1 N + 32 P) =
-(26 D + 7 C + 2 N + 33 P) - (20 D + 7 C + 14 P) =
-(55 D + 5 C + 9 N + 82 P) - (48 D + 6 N) =
-(30 D + 6 C + 4 N + 21 P) - (19 D + 5 C + 2 N) =
-(46 D + 10 C + 6 N + 93 P) - (39 D + 1 C + 73 P) =
-(52 D + 10 C + 2 N + 26 P) - (6 C + 2 N) =
-(86 D + 1 C + 2 N + 45 P) - (10 D + 1 C + 2 N + 40 P) =
+
+56 Dollar + 91 Q + 74 Dime + 81 N + 66 P = __________ Cent and  $ ___________
+
+
+60 Dollar + 71 Q + 35 Dime + 71 N + 18 P = __________ Cent and  $ ___________
+
+
+43 Dollar + 94 Q + 89 Dime + 18 N + 11 P = __________ Cent and  $ ___________
+
+
+64 Dollar + 93 Q + 29 Dime + 45 N + 34 P = __________ Cent and  $ ___________
+
+
+26 Dollar + 1 Q + 71 Dime + 20 N + 57 P = __________ Cent and  $ ___________
+
+
+98 Dollar + 15 Q + 48 Dime + 49 N + 54 P = __________ Cent and  $ ___________
+
+
+59 Dollar + 5 Q + 84 Dime + 6 N + 93 P = __________ Cent and  $ ___________
+
+
+42 Dollar + 69 Q + 70 Dime + 90 N + 96 P = __________ Cent and  $ ___________
+
+
+72 Dollar + 58 Q + 39 Dime + 54 N + 93 P = __________ Cent and  $ ___________
+
+
+53 Dollar + 15 Q + 3 Dime + 92 N + 96 P = __________ Cent and  $ ___________
+
+
+94 Dollar + 61 Q + 38 Dime + 51 N + 31 P = __________ Cent and  $ ___________
+
+
+66 Dollar + 42 Q + 83 Dime + 4 N + 39 P = __________ Cent and  $ ___________
+
+
+24 Dollar + 90 Q + 12 Dime + 19 N + 19 P = __________ Cent and  $ ___________
+
+
+94 Dollar + 83 Q + 28 Dime + 66 N + 36 P = __________ Cent and  $ ___________
+
+
+79 Dollar + 9 Q + 2 Dime + 94 N + 38 P = __________ Cent and  $ ___________
+
+
+37 Dollar + 87 Q + 21 Dime + 76 N + 21 P = __________ Cent and  $ ___________
+
+
+16 Dollar + 87 Q + 49 Dime + 45 N + 62 P = __________ Cent and  $ ___________
+
+
+77 Dollar + 61 Q + 80 Dime + 7 N + 37 P = __________ Cent and  $ ___________
+
+
+51 Dollar + 98 Q + 50 Dime + 64 N + 60 P = __________ Cent and  $ ___________
+
+
