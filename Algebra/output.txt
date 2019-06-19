@@ -1,0 +1,500 @@
+Enter the number of questions you want to generate : X = Y-1
+X = 10Y
+Find X
+
+
+X = Y+1
+X = 8Y
+Find X
+
+
+X = Y+2
+X = 2Y
+Find X
+
+
+X = Y+6
+X = 10Y
+Find X
+
+
+X = Y+2
+X = 4Y
+Find X
+
+
+X = Y-8
+X = 7Y
+Find X
+
+
+X = Y+3
+X = 1Y
+Find X
+
+
+X = Y-3
+X = 9Y
+Find X
+
+
+X = Y+4
+X = 3Y
+Find X
+
+
+X = Y-7
+X = 1Y
+Find X
+
+
+X = Y-9
+X = 9Y
+Find X
+
+
+X = Y-9
+X = 9Y
+Find X
+
+
+X = Y+8
+X = 4Y
+Find X
+
+
+X = Y+3
+X = 7Y
+Find X
+
+
+X = Y-9
+X = 8Y
+Find X
+
+
+X = Y-3
+X = 5Y
+Find X
+
+
+X = Y-10
+X = 8Y
+Find X
+
+
+X = Y-7
+X = 2Y
+Find X
+
+
+X = Y+3
+X = 5Y
+Find X
+
+
+X = Y+3
+X = 9Y
+Find X
+
+
+X = Y+3
+X = 6Y
+Find X
+
+
+X = Y+4
+X = 5Y
+Find X
+
+
+X = Y-2
+X = 8Y
+Find X
+
+
+X = Y+2
+X = 9Y
+Find X
+
+
+X = Y-2
+X = 9Y
+Find X
+
+
+X = Y-5
+X = 3Y
+Find X
+
+
+X = Y-10
+X = 10Y
+Find X
+
+
+X = Y-9
+X = 2Y
+Find X
+
+
+X = Y-10
+X = 1Y
+Find X
+
+
+X = Y-9
+X = 3Y
+Find X
+
+
+X = Y+8
+X = 7Y
+Find X
+
+
+X = Y+1
+X = 6Y
+Find X
+
+
+X = Y+6
+X = 3Y
+Find X
+
+
+X = Y+6
+X = 5Y
+Find X
+
+
+X = Y+2
+X = 1Y
+Find X
+
+
+X = Y+3
+X = 10Y
+Find X
+
+
+X = Y-8
+X = 8Y
+Find X
+
+
+X = Y+6
+X = 2Y
+Find X
+
+
+X = Y-4
+X = 3Y
+Find X
+
+
+X = Y+8
+X = 10Y
+Find X
+
+
+X = Y-10
+X = 10Y
+Find X
+
+
+X = Y-3
+X = 5Y
+Find X
+
+
+X = Y-4
+X = 4Y
+Find X
+
+
+X = Y+2
+X = 6Y
+Find X
+
+
+X = Y+8
+X = 9Y
+Find X
+
+
+X = Y-5
+X = 2Y
+Find X
+
+
+X = Y+5
+X = 2Y
+Find X
+
+
+X = Y-10
+X = 4Y
+Find X
+
+
+X = Y-6
+X = 4Y
+Find X
+
+
+X = Y+8
+X = 2Y
+Find X
+
+
+X = Y+2
+X = 8Y
+Find X
+
+
+X = Y-2
+X = 9Y
+Find X
+
+
+X = Y-4
+X = 9Y
+Find X
+
+
+X = Y+1
+X = 9Y
+Find X
+
+
+X = Y-5
+X = 7Y
+Find X
+
+
+X = Y-3
+X = 5Y
+Find X
+
+
+X = Y+9
+X = 1Y
+Find X
+
+
+X = Y+7
+X = 7Y
+Find X
+
+
+X = Y+3
+X = 4Y
+Find X
+
+
+X = Y+7
+X = 6Y
+Find X
+
+
+X = Y+3
+X = 9Y
+Find X
+
+
+X = Y-3
+X = 10Y
+Find X
+
+
+X = Y+6
+X = 3Y
+Find X
+
+
+X = Y-7
+X = 5Y
+Find X
+
+
+X = Y-8
+X = 6Y
+Find X
+
+
+X = Y-10
+X = 3Y
+Find X
+
+
+X = Y+6
+X = 4Y
+Find X
+
+
+X = Y+6
+X = 1Y
+Find X
+
+
+X = Y-5
+X = 2Y
+Find X
+
+
+X = Y+5
+X = 4Y
+Find X
+
+
+X = Y+7
+X = 2Y
+Find X
+
+
+X = Y+8
+X = 5Y
+Find X
+
+
+X = Y-6
+X = 3Y
+Find X
+
+
+X = Y-7
+X = 7Y
+Find X
+
+
+X = Y-9
+X = 6Y
+Find X
+
+
+X = Y+4
+X = 1Y
+Find X
+
+
+X = Y+8
+X = 9Y
+Find X
+
+
+X = Y+3
+X = 2Y
+Find X
+
+
+X = Y-8
+X = 4Y
+Find X
+
+
+X = Y+6
+X = 6Y
+Find X
+
+
+X = Y-3
+X = 8Y
+Find X
+
+
+X = Y+1
+X = 1Y
+Find X
+
+
+X = Y-6
+X = 3Y
+Find X
+
+
+X = Y+8
+X = 4Y
+Find X
+
+
+X = Y+10
+X = 10Y
+Find X
+
+
+X = Y-10
+X = 6Y
+Find X
+
+
+X = Y-5
+X = 2Y
+Find X
+
+
+X = Y-1
+X = 8Y
+Find X
+
+
+X = Y-3
+X = 5Y
+Find X
+
+
+X = Y-1
+X = 10Y
+Find X
+
+
+X = Y-4
+X = 5Y
+Find X
+
+
+X = Y+7
+X = 6Y
+Find X
+
+
+X = Y-2
+X = 1Y
+Find X
+
+
+X = Y+1
+X = 10Y
+Find X
+
+
+X = Y-8
+X = 1Y
+Find X
+
+
+X = Y+6
+X = 1Y
+Find X
+
+
+X = Y+10
+X = 6Y
+Find X
+
+
+X = Y-2
+X = 9Y
+Find X
+
+
+X = Y-10
+X = 10Y
+Find X
+
+
+X = Y+3
+X = 9Y
+Find X
+
+
