@@ -1,3 +1,3 @@
-# mathninja
-Generate Math worksheets for kids from Python code
+# K10 Math
+Generate math worksheets from Python programs
 
